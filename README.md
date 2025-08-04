@@ -1,4 +1,4 @@
-# -# DUST: Discrete Unit Sequence Transformer for Ultra-Wideband Non-Line-of-Sight Identification
+# DUST: Discrete Unit Sequence Transformer for Ultra-Wideband Non-Line-of-Sight Identification
 
 <img width="2000" height="737" alt="figure1" src="https://github.com/user-attachments/assets/827ea19a-07ae-4707-897a-a843b65c84e5" />
 
